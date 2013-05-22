@@ -1,0 +1,7 @@
+*.pyc
+*.swp
+*.swo
+venv/
+progress.py.egg-info
+build
+dist
